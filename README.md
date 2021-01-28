@@ -47,3 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # react_practice_tic-tac-toe_ts_useContext_useReducer
 npx -p @storybook/cli sb init
+
+yarn storybook
+
